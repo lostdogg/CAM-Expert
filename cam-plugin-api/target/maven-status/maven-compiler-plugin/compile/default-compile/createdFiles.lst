@@ -1,0 +1,4 @@
+com/camexpert/plugin/CamPlugin.class
+com/camexpert/plugin/PluginContext$Builder.class
+com/camexpert/plugin/PluginContext.class
+com/camexpert/plugin/PluginLoader.class
