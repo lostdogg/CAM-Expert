@@ -1,0 +1,10 @@
+com/camexpert/kernel/tessellation/Triangle.class
+com/camexpert/kernel/tessellation/Tessellator.class
+com/camexpert/kernel/brep/BRepModel.class
+com/camexpert/kernel/healing/GeometryHealer$GapRecord.class
+com/camexpert/kernel/brep/BRepEdge.class
+com/camexpert/kernel/tessellation/TessellationMesh.class
+com/camexpert/kernel/healing/GeometryHealer.class
+com/camexpert/kernel/jni/GeometryKernelBridge.class
+com/camexpert/kernel/brep/BRepFace.class
+com/camexpert/kernel/healing/GeometryHealer$HealingReport.class

@@ -1,0 +1,8 @@
+/home/runner/work/CAM-Expert/CAM-Expert/cam-kernel/src/main/java/com/camexpert/kernel/brep/BRepEdge.java
+/home/runner/work/CAM-Expert/CAM-Expert/cam-kernel/src/main/java/com/camexpert/kernel/brep/BRepFace.java
+/home/runner/work/CAM-Expert/CAM-Expert/cam-kernel/src/main/java/com/camexpert/kernel/brep/BRepModel.java
+/home/runner/work/CAM-Expert/CAM-Expert/cam-kernel/src/main/java/com/camexpert/kernel/healing/GeometryHealer.java
+/home/runner/work/CAM-Expert/CAM-Expert/cam-kernel/src/main/java/com/camexpert/kernel/jni/GeometryKernelBridge.java
+/home/runner/work/CAM-Expert/CAM-Expert/cam-kernel/src/main/java/com/camexpert/kernel/tessellation/TessellationMesh.java
+/home/runner/work/CAM-Expert/CAM-Expert/cam-kernel/src/main/java/com/camexpert/kernel/tessellation/Tessellator.java
+/home/runner/work/CAM-Expert/CAM-Expert/cam-kernel/src/main/java/com/camexpert/kernel/tessellation/Triangle.java

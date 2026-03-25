@@ -1,0 +1,8 @@
+/home/runner/work/CAM-Expert/CAM-Expert/cam-database/src/main/java/com/camexpert/database/ToolDatabase.java
+/home/runner/work/CAM-Expert/CAM-Expert/cam-database/src/main/java/com/camexpert/database/mesh/CollisionMeshGenerator.java
+/home/runner/work/CAM-Expert/CAM-Expert/cam-database/src/main/java/com/camexpert/database/model/CuttingGeometry.java
+/home/runner/work/CAM-Expert/CAM-Expert/cam-database/src/main/java/com/camexpert/database/model/Holder.java
+/home/runner/work/CAM-Expert/CAM-Expert/cam-database/src/main/java/com/camexpert/database/model/ToolAssembly.java
+/home/runner/work/CAM-Expert/CAM-Expert/cam-database/src/main/java/com/camexpert/database/repository/CuttingGeometryRepository.java
+/home/runner/work/CAM-Expert/CAM-Expert/cam-database/src/main/java/com/camexpert/database/repository/HolderRepository.java
+/home/runner/work/CAM-Expert/CAM-Expert/cam-database/src/main/java/com/camexpert/database/repository/ToolAssemblyRepository.java

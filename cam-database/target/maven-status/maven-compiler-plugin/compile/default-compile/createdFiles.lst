@@ -1,0 +1,10 @@
+com/camexpert/database/ToolDatabase.class
+com/camexpert/database/repository/CuttingGeometryRepository.class
+com/camexpert/database/model/Holder.class
+com/camexpert/database/repository/HolderRepository.class
+com/camexpert/database/mesh/CollisionMeshGenerator$CollisionMesh.class
+com/camexpert/database/mesh/CollisionMeshGenerator$ProfilePoint.class
+com/camexpert/database/mesh/CollisionMeshGenerator.class
+com/camexpert/database/repository/ToolAssemblyRepository.class
+com/camexpert/database/model/ToolAssembly.class
+com/camexpert/database/model/CuttingGeometry.class
